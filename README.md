@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python 🐍
 - 💬 Ask me about Linux 🐧 Docker 🐳 Kubernetes ☸️
 - 📫 How to reach me: leonardo@epicentroit.com.br 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'am a former civil enginner who decided to change careers 👷‍♂️
 
 ##
 
