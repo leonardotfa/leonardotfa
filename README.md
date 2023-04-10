@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/leonardo-tfardoski-078389194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:leonardo@epicentroit.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+   <a href = "mailto:dev.leonardotfa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/leonardotfa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
@@ -18,8 +18,8 @@
 
 📊 GitHub status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardohtfa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohtfa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardotfa&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardotfa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 🛠️ Technologies and Tools I use:
 
